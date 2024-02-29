@@ -1,7 +1,7 @@
 ﻿using System;
 namespace MyIntArray
 {
-    protected class Program
+    class Program
     {
         static void Main(string[] args)
         {
