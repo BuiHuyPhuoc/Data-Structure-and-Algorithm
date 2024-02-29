@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yDbUSuVpkI/1OF9zQYyrRar+wBm0xt5Lu6RtpvxT7Q9GJ9wSAuQHTWe1Eb+tvVoxwN4dQ3wVH7vRnwPAv8/Vwg==",
+  "dgSpecHash": "8NeYXUs6fzkKlS7uc7sLulsqJ7BJBnqGnAapCPhud4qpSl+w+28IKw825Uq4W6OEWPICi0s2a1oXDFizJTxs1A==",
   "success": true,
-  "projectFilePath": "D:\\CTDL&GT\\MyIntArray\\TestProject2\\TestProject2.csproj",
+  "projectFilePath": "D:\\WEB\\Github\\CTDL\\Data-Structure-and-Algorithm\\TestProject2\\TestProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\buihu\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\buihu\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
@@ -30,7 +30,10 @@
     "C:\\Users\\buihu\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\buihu\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\buihu\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
-    "C:\\Users\\buihu\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+    "C:\\Users\\buihu\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\buihu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\buihu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\buihu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

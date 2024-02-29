@@ -12,7 +12,7 @@ namespace TestProject2
         {
             int[] a = new int[] { 1, 4, 6, 7, 9 };
             IntArray array = new IntArray(a);
-            Assert.AreEqual(array.BinarySearch(4), 4);
+            Assert.AreEqual(4, array.BinarySearch(4));
         }
 
         [TestMethod]
