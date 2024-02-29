@@ -8,11 +8,11 @@ namespace MyIntArray
 {
     public class IntArray
     {
-        private int[] array;
+        private readonly int[] array;
 
         public IntArray() 
         { 
-            array = new int[0];
+            array = Array.Empty<int>();
         }
         public IntArray(int[] array) {  this.array = array; }
 
@@ -70,7 +70,7 @@ namespace MyIntArray
                 {
                     if (array[j] < array[j - 1])
                     {
-                        int temp = (int)array[j];
+                        int temp = array[j];
                         array[j] = array[i];
                         array[i] = temp;
                     }
@@ -155,13 +155,14 @@ namespace MyIntArray
         }
         public string toString()
         {
-            string result = "Array: ";
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.Append("Array: ");
             foreach (var item in array)
             {
-
-                result += item.ToString() + " ";
+                stringBuilder.Append(item + " ");
+                
             }
-            return result;
+            return stringBuilder.ToString();
         }
     }
 }
