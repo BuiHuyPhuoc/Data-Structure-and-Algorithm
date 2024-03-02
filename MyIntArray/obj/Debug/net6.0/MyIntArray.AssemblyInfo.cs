@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyIntArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa754fb59e4bf248be9aff7ca4f99f63c4382825")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e219705e6cad585502aeb71b681022e07a7f0876")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyIntArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyIntArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
