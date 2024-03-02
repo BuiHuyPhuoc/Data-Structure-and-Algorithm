@@ -71,8 +71,8 @@ namespace MyIntArray
                     if (array[j] < array[j - 1])
                     {
                         int temp = array[j];
-                        array[j] = array[i];
-                        array[i] = temp;
+                        array[j] = array[j - 1];
+                        array[j - 1] = temp;
                     }
                 }
             }
@@ -153,7 +153,7 @@ namespace MyIntArray
         {
             return array;
         }
-        public string toString()
+        public override string ToString()
         {
             StringBuilder stringBuilder = new StringBuilder();
             stringBuilder.Append("Array: ");
