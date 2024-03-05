@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace MyIntArray
 {
     class Program
@@ -10,11 +10,8 @@ namespace MyIntArray
         // Command 4
         // Command 7
         // Command 5
-<<<<<<< HEAD
         // Command 11
-=======
         // Command 10
->>>>>>> 2503315550e2661ee16a9a4ed72d159927f03da0
         static void Main(string[] args)
         {
             SearchBinary();
