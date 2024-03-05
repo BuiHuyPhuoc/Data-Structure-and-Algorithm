@@ -3,14 +3,6 @@ namespace MyIntArray
 {
     class Program
     {
-        // Comment for github 123
-        // Command 3
-        // Command 2
-        // command 6
-        // Command 4
-        // Command 7
-        // Command 5
-        // Command 10
         static void Main(string[] args)
         {
             SearchBinary();
