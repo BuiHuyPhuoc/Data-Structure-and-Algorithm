@@ -10,6 +10,7 @@ namespace MyIntArray
         // Command 4
         // Command 7
         // Command 5
+        // Command 10
         static void Main(string[] args)
         {
             SearchBinary();
