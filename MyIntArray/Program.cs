@@ -4,6 +4,7 @@ namespace MyIntArray
     class Program
     {
         // Comment for github 123
+        // Command 3
         static void Main(string[] args)
         {
             SearchBinary();
